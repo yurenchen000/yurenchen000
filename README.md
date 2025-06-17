@@ -13,4 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a align="right"  href="https://github.com/yurenchen000/">
+  <img align="right"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurenchen000&langs_count=6" />
+</a>
+
+<p align="left">
+  <a href="https://github.com/yurenchen000/">
+    <img src="https://github-readme-stats.vercel.app/api?username=yurenchen000&include_all_commits=true&show_icons=true&bg_color=232627&text_color=ffffd7&icon_color=af5f5f&title_color=ff557f&count_private=true" />
+  </a>
+</p>
+
 -->
+
+
+
+
+
