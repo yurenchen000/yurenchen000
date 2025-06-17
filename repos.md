@@ -1,6 +1,8 @@
 repos
 =====
 
+<img src="https://profile-counter.glitch.me/yurenchen000.repos/count.svg" />
+<br>
 
 ## Terminator Plugins
 
